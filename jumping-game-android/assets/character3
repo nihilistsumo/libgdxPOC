@@ -1,0 +1,88 @@
+character3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+run
+  rotate: true
+  xy: 2, 270
+  size: 144, 152
+  orig: 1076, 1000
+  offset: 859, 820
+  index: 1
+run
+  rotate: true
+  xy: 2, 140
+  size: 128, 166
+  orig: 1076, 1000
+  offset: 864, 813
+  index: 2
+run
+  rotate: true
+  xy: 174, 130
+  size: 94, 168
+  orig: 1076, 1000
+  offset: 866, 810
+  index: 3
+run
+  rotate: true
+  xy: 174, 2
+  size: 126, 170
+  orig: 1076, 1000
+  offset: 852, 803
+  index: 4
+run
+  rotate: true
+  xy: 2, 2
+  size: 136, 170
+  orig: 1076, 1000
+  offset: 849, 798
+  index: 10
+run
+  rotate: false
+  xy: 156, 372
+  size: 144, 124
+  orig: 1076, 1000
+  offset: 849, 801
+  index: 5
+run
+  rotate: false
+  xy: 2, 416
+  size: 132, 118
+  orig: 1076, 1000
+  offset: 879, 815
+  index: 11
+run
+  rotate: false
+  xy: 170, 226
+  size: 152, 144
+  orig: 1076, 1000
+  offset: 852, 813
+  index: 6
+run
+  rotate: true
+  xy: 324, 358
+  size: 136, 144
+  orig: 1076, 1000
+  offset: 868, 809
+  index: 12
+run
+  rotate: true
+  xy: 346, 96
+  size: 144, 154
+  orig: 1076, 1000
+  offset: 867, 826
+  index: 7
+run
+  rotate: true
+  xy: 324, 242
+  size: 114, 146
+  orig: 1076, 1000
+  offset: 882, 823
+  index: 8
+run
+  rotate: true
+  xy: 346, 2
+  size: 92, 158
+  orig: 1076, 1000
+  offset: 869, 813
+  index: 9
