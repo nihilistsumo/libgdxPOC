@@ -1,3 +1,3 @@
 # libgdxPOC
-A proof of concept project with libgdx and basic game dynamics
+A proof of concept project with libgdx and basic game dynamics.
 Work in progress...
